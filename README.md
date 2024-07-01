@@ -5,7 +5,7 @@
 
 # Microservice Architecture in ASP.NET 6
 
-This is an eCommerce project with Microservice Architecture that demonstrates usage of design patterns & many technologies.
+This is an eCommerce project with Microservice Architecture that demonstrates usage of design patterns & many technologies
 
 Each service uses different sub-architecture and database to demonstrate true microservices and their potential. 
 I have mainly used clean and layerd as sub-architecutres for each of the service. 
